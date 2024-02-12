@@ -1,6 +1,6 @@
 {
     "name": "react-use-paging",
-    "version": "1.0.7",
+    "version": "1.0.7-a",
     "description": "Quick and easy react hook to implement pagination as a list.",
     "author": "JeremieNallet",
     "license": "MIT",
