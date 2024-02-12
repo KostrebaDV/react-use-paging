@@ -67,7 +67,7 @@ const MyComponent = () => {
 
 ## License
 
-MIT © [JeremieNallet](https://github.com/JeremieNallet)
+MIT
 
 ---
 
